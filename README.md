@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador Mobile | Especialista en aplicaciones nativas e hibridas
 
-Soy un apasionado por la creación de aplicaciones móviles y soluciones digitales que mejoran la experiencia de los usuarios. Con varios años de experiencia, he desarrollado aplicaciones multiplataforma y nativas que han llegado a miles de usuarios. Mi enfoque siempre está en escribir código limpio, eficiente y escalable.
+Soy un apasionado por la creación de aplicaciones móviles y soluciones digitales que mejoran la experiencia de los usuarios. Con varios años de experiencia, he desarrollado aplicaciones multiplataforma y nativas que han llegado a miles de usuarios. Mi lema es **si lo puedes soñar, lo puedes programar**.
 
 ---
 
