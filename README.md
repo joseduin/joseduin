@@ -1,7 +1,3 @@
-# 👋 ¡Hola! Soy Jose Miguel
-
----
-
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="left"> 
